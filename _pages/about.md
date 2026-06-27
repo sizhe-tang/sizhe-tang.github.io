@@ -28,26 +28,26 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 **HFPS** accepted to **ICML 2026**, and [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
-<!-- TODO: HFPS 还没加链接——把它的论文页 URL 发我，我加上；并确认 T-STAR 链接是否正确 -->
-- *2026.05*: &nbsp;🎉 **NonZero** accepted to **ICML 2026** (Spotlight).
+- *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
+- *2026.05*: &nbsp;🎉 [**HFPS**](https://arxiv.org/abs/2602.06939) accepted to **ICML 2026**.
 - *2026.04*: &nbsp;🎉 I will join **Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
-- *2025.09*: &nbsp;🎉 **MALinZero** accepted to **NeurIPS 2025**.
+- *2026.03*: &nbsp;🎉 [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
+- *2025.09*: &nbsp;🎉 [**MALinZero**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html) accepted to **NeurIPS 2025**.
 <!-- TODO: News 日期是按惯例估的，请按实际录用/起始时间调整 -->
 
 # 📝 Selected Publications
 
 <!-- 注意：作者顺序我按 Google Scholar 推断（把你列为第一作者），请核对；可给标题加论文链接 [标题](链接)，共同一作用 † 标注。 -->
 
-- **Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. *NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*. **ICML 2026 (Spotlight)**.
+- **Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. [*NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*](https://arxiv.org/abs/2605.00751). **ICML 2026** (<span style="color:red">Spotlight</span>).
 
-- **Sizhe Tang**, Jiayu Chen, Tian Lan. *MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*. **NeurIPS 2025**.
+- **Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
 
 - **Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
 
-- **Sizhe Tang**, Z. Zhang, Tian Lan. *Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*. **ICML 2026**.
+- **Sizhe Tang**, Z. Zhang, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
 
-- **Sizhe Tang**, R. Chen, Tian Lan. *Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*. **arXiv preprint, 2026**.
+- **Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **arXiv preprint, 2026**.
 
 # 💼 Experience
 - *2026.05 - 2026.08*, Applied Scientist Intern, **Amazon AWS AI**, Santa Clara, CA.
