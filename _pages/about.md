@@ -37,18 +37,18 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 
-<!-- 注意：作者顺序我按 Google Scholar 推断（把你列为第一作者），请核对；TL;DR 是我按标题概括的，可自行润色。 -->
+<!-- 注意：作者顺序我按 Google Scholar 推断（把你列为第一作者），请核对；一句话描述也可自行润色。 -->
 
 <style>
 .pub-card {
   border: 1px solid #e8e8e8;          /* 浅灰边框，避免视觉杂乱 */
   border-radius: 10px;
-  padding: 10px 16px;
+  padding: 10px 18px;
   margin-bottom: 14px;
   background: #ffffff;
 }
 .pub-card p { margin: 0.35em 0; }
-.pub-tldr { color: #666; font-size: 0.9em; }
+.pub-desc { color: #666; font-size: 0.9em; }
 .tag {
   display: inline-block;
   padding: 1px 11px;
@@ -60,6 +60,12 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 .tag-cua { background: #fdf3c0; color: #7a6500; }   /* 淡黄 · Computer-Use Agent */
 .tag-pt  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Post-training */
 .tag-rl  { background: #e9dcfb; color: #5a39a0; }    /* 淡紫 · RL */
+
+/* 加宽正文内容列、收窄左侧作者栏，减少论文标题换行（仅大屏生效） */
+@media (min-width: 1200px) {
+  .sidebar { width: 12%; }
+  .page    { width: 87%; padding-left: 1.5em; }
+}
 </style>
 
 <div class="pub-card" markdown="1">
@@ -68,25 +74,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 **Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. [*NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*](https://arxiv.org/abs/2605.00751). **ICML 2026** (<span style="color:red">Spotlight</span>).
 
-<span class="pub-tldr">**TL;DR:** An interaction-guided exploration rule that scales Monte Carlo Tree Search to multi-agent planning.</span>
-</div>
-
-<div class="pub-card" markdown="1">
-
-<span class="tag tag-rl">RL</span>
-
-**Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
-
-<span class="pub-tldr">**TL;DR:** A low-dimensional linear-bandit (LinUCT) search that makes joint-action MCTS efficient for complex multi-agent planning.</span>
-</div>
-
-<div class="pub-card" markdown="1">
-
-<span class="tag tag-pt">Post-training</span>
-
-**Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
-
-<span class="pub-tldr">**TL;DR:** Multi-turn agent policy optimization that self-rectifies reasoning chains and grafts good branches via tree search.</span>
+<span class="pub-desc">An interaction-guided exploration rule that scales Monte Carlo Tree Search to multi-agent planning.</span>
 </div>
 
 <div class="pub-card" markdown="1">
@@ -95,7 +83,25 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 **Sizhe Tang**, Z. Zhang, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
 
-<span class="pub-tldr">**TL;DR:** A cochain view of temporal-difference signals that extends RL to non-Markovian dynamics.</span>
+<span class="pub-desc">A cochain view of temporal-difference signals that extends RL to non-Markovian dynamics.</span>
+</div>
+
+<div class="pub-card" markdown="1">
+
+<span class="tag tag-pt">Post-training</span>
+
+**Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
+
+<span class="pub-desc">Multi-turn agent policy optimization that self-rectifies reasoning chains and grafts good branches via tree search.</span>
+</div>
+
+<div class="pub-card" markdown="1">
+
+<span class="tag tag-rl">RL</span>
+
+**Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
+
+<span class="pub-desc">A low-dimensional linear-bandit (LinUCT) search that makes joint-action MCTS efficient for complex multi-agent planning.</span>
 </div>
 
 <div class="pub-card" markdown="1">
@@ -104,7 +110,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 **Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **arXiv preprint, 2026**.
 
-<span class="pub-tldr">**TL;DR:** A tree-search framework unifying generation, exploration, and evaluation for computer-use agents.</span>
+<span class="pub-desc">A tree-search framework unifying generation, exploration, and evaluation for computer-use agents.</span>
 </div>
 
 # 💼 Experience
