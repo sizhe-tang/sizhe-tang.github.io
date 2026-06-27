@@ -27,7 +27,7 @@ author:
   location         : "Washington, D.C., USA"
   employer         : "George Washington University"
   pubmed           :
-  googlescholar    :  # e.g., "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=XrAl4vgAAAAJ"
   email            : "s.tang1@email.gwu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "sizhe-jeffery-tang-29aa95339"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
