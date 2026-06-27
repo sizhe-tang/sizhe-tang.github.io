@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sizhe Tang"
-description              : "Academic homepage of Sizhe Tang, George Washington University."
+description              : "RL, self-evolving agent."
 repository               : "sizhe-tang/sizhe-tang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Sizhe Tang"
-  avatar           : "images/profile.png"
-  bio              : "Graduate Student @ George Washington University"
-  location         : "Washington, D.C., USA"
+  avatar           : "images/profile.jpg"
+  bio              : "Second-year PhD Candidate @ George Washington University"
+  location         : "Santa Clara, CA, USA"
   employer         : "George Washington University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=XrAl4vgAAAAJ"

@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Sizhe Tang**, a Ph.D. student at [The George Washington University](https://www.gwu.edu/) in Washington, D.C., advised by Prof. Tian Lan.
-<!-- TODO: 请确认 ① 是否博士生（不是的话改成 Master's/其它）② 导师是否 Tian Lan，要不要加导师主页链接 -->
+Hi! I am **Sizhe Tang**, a second-year Ph.D. candidate at [The George Washington University](https://www.gwu.edu/), advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/).
 
-My research focuses on **reinforcement learning**, **multi-agent systems**, and **LLM-based agents** — in particular tree-search and planning methods for multi-agent decision making (the *Zero* series), computer-use agents, and multi-turn agent policy optimization.
-<!-- TODO: 这段可按你自己的话再润色 -->
+My research focuses on **reinforcement learning** and **self-evolving agents**, with an emphasis on tree-search and planning for multi-agent decision-making (the *Zero* series), computer-use agents, and multi-turn agent policy optimization.
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=XrAl4vgAAAAJ'>Google Scholar</a>.
 <!-- 引用数徽章：等自动抓取工作流跑出 google-scholar-stats 分支后，把下面这行的注释去掉即可显示实时引用数：
@@ -30,43 +28,41 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 *NonZero* was accepted to **ICML 2026** as a **Spotlight**.
-- *2025.09*: &nbsp;🎉 *MALinZero* was accepted to **NeurIPS 2025**.
-<!-- TODO: News 日期是按惯例估的，请按实际录用时间调整；可继续往上添加最新动态 -->
+- *2026.05*: &nbsp;🎉 **HFPS** accepted to **ICML 2026**, and [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
+<!-- TODO: HFPS 还没加链接——把它的论文页 URL 发我，我加上；并确认 T-STAR 链接是否正确 -->
+- *2026.05*: &nbsp;🎉 **NonZero** accepted to **ICML 2026** (Spotlight).
+- *2026.04*: &nbsp;🎉 I will join **Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
+- *2025.09*: &nbsp;🎉 **MALinZero** accepted to **NeurIPS 2025**.
+<!-- TODO: News 日期是按惯例估的，请按实际录用/起始时间调整 -->
 
-# 📝 Publications
+# 📝 Selected Publications
 
-<!-- 注意：以下作者顺序是我根据 Google Scholar 推断的（把你列在第一作者），请你核对每篇的真实作者顺序，并给标题加上论文链接（[标题](链接)）。共同一作可用 † 标注。 -->
+<!-- 注意：作者顺序我按 Google Scholar 推断（把你列为第一作者），请核对；可给标题加论文链接 [标题](链接)，共同一作用 † 标注。 -->
 
 - **Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. *NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*. **ICML 2026 (Spotlight)**.
 
-- **Sizhe Tang**, J. Chen, Tian Lan. *MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*. **NeurIPS 2025**.
+- **Sizhe Tang**, Jiayu Chen, Tian Lan. *MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*. **NeurIPS 2025**.
 
-- **Sizhe Tang**, Y. Li, Tian Lan. *Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*. **ACL 2026 Findings**.
+- **Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
 
 - **Sizhe Tang**, Z. Zhang, Tian Lan. *Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*. **ICML 2026**.
 
 - **Sizhe Tang**, R. Chen, Tian Lan. *Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*. **arXiv preprint, 2026**.
 
-- **Sizhe Tang**, Y. Li, R. Chen, et al., Tian Lan. *ACDZero: Graph-Embedding-Based Tree Search for Mastering Automated Cyber Defense*. **INFOCOM Workshop on ICCN, 2026**.
-
-- **Sizhe Tang**, Y. Li, M. Imani, Tian Lan. *Towards Low-Dimensional Search for Mastering Multi-Agent Planning*. **AAAI Symposium Series, 2026**.
-
-<!-- 你 Scholar 上还有更早的边缘计算/综述类论文（如 IEEE Communications Magazine 2023、Applied Soft Computing 2022 等，你为合作作者）。如果想展示，告诉我，我帮你按真实作者顺序补到这里。 -->
+# 💼 Experience
+- *2026.05 - 2026.08*, Applied Scientist Intern, **Amazon AWS AI**, Santa Clara, CA.
+  - Working on web and coding agents (LLM-based autonomous agents).
+<!-- TODO: 把上面这行实习描述换成你真实做的工作 -->
 
 # 📖 Educations
-- *20XX.XX - Present*, Ph.D. in Computer Engineering, The George Washington University, Washington, D.C.
-- *20XX.XX - 20XX.XX*, B.S. in XXX, University Name.
-<!-- TODO: 填写真实的学位/专业/起止时间（本科学校等）。读博院系若不是 Computer Engineering 也请改。 -->
+- *2024 - 2028 (expected)*, Ph.D. in Computer Engineering, The George Washington University, Washington, D.C.
+<!-- TODO: 确认读博院系；如需展示本科经历，按同样格式再加一行 -->
 
-<!-- 下面这些章节先注释掉了，等你有内容时取消注释、并到 _data/navigation.yml 里把对应导航项加回来即可：
+<!-- 需要时可取消注释以下章节，并到 _data/navigation.yml 把对应导航项加回来：
 
 # 🎖 Honors and Awards
 - *Year*: Award / scholarship name.
 
 # 💬 Invited Talks
 - *Year*: Talk title, venue.
-
-# 💻 Internships
-- *Year*: Role, Company / Lab, Location.
 -->
