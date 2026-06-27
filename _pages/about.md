@@ -61,10 +61,10 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 .tag-pt  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Post-training */
 .tag-rl  { background: #e9dcfb; color: #5a39a0; }    /* 淡紫 · RL */
 
-/* 加宽正文内容列、收窄左侧作者栏，减少论文标题换行（仅大屏生效） */
+/* 加宽正文列：清零 Susy gutter 外边距，两列宽度之和=99% 保证并排不掉行（仅大屏生效） */
 @media (min-width: 1200px) {
-  .sidebar { width: 12%; }
-  .page    { width: 87%; padding-left: 1.5em; }
+  #main .sidebar { width: 13%; margin: 0; }
+  #main .page    { width: 86%; margin: 0; padding-left: 1.25em; }
 }
 </style>
 
