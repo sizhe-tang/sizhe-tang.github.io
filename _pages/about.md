@@ -56,10 +56,12 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
   font-size: 0.75em;
   font-weight: 600;
   letter-spacing: 0.3px;
+  margin-right: 5px;
 }
 .tag-cua { background: #fdf3c0; color: #7a6500; }   /* 淡黄 · Computer-Use Agent */
-.tag-pt  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Post-training */
+.tag-pt  { background: #d6e9fb; color: #1d5390; }    /* 淡蓝 · Post-training */
 .tag-rl  { background: #e9dcfb; color: #5a39a0; }    /* 淡紫 · RL */
+.tag-ts  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Tree search */
 
 /* 加宽正文列：清零 Susy gutter 外边距，两列宽度之和=99% 保证并排不掉行（仅大屏生效） */
 @media (min-width: 1200px) {
@@ -70,7 +72,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-rl">RL</span>
+<span class="tag tag-rl">RL</span> <span class="tag tag-ts">Tree search</span>
 
 **Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. [*NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*](https://arxiv.org/abs/2605.00751). **ICML 2026** (<span style="color:red">Spotlight</span>).
 
@@ -97,7 +99,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-rl">RL</span>
+<span class="tag tag-rl">RL</span> <span class="tag tag-ts">Tree search</span>
 
 **Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
 
@@ -106,7 +108,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-cua">Computer-Use Agent</span>
+<span class="tag tag-cua">Computer-Use Agent</span> <span class="tag tag-ts">Tree search</span>
 
 **Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **arXiv preprint, 2026**.
 
