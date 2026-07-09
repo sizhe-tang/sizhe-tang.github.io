@@ -28,11 +28,12 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
+- *2026.06*: &nbsp;🎉 [**Agent Alpha**](https://arxiv.org/abs/2602.02995) <span class="first-author">first author</span> accepted to **COLM 2026** (<span style="color:red">778</span>).
+- *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) <span class="first-author">first author</span> accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
 - *2026.05*: &nbsp;🎉 [**HFPS**](https://arxiv.org/abs/2602.06939) accepted to **ICML 2026**.
 - *2026.04*: &nbsp;🎉 I will join **Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
 - *2026.03*: &nbsp;🎉 [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
-- *2025.09*: &nbsp;🎉 [**MALinZero**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html) accepted to **NeurIPS 2025**.
+- *2025.09*: &nbsp;🎉 [**MALinZero**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html) <span class="first-author">first author</span> accepted to **NeurIPS 2025**.
 <!-- TODO: News 日期是按惯例估的，请按实际录用/起始时间调整 -->
 
 # 📝 Selected Publications
@@ -63,6 +64,20 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 .tag-rl  { background: #e9dcfb; color: #5a39a0; }    /* 淡紫 · RL */
 .tag-ts  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Tree search */
 
+/* News 里的「一作」标记 */
+.first-author {
+  display: inline-block;
+  padding: 0 7px;
+  border-radius: 8px;
+  font-size: 0.7em;
+  font-weight: 600;
+  background: #f2f2f2;
+  color: #555;
+  border: 1px solid #e4e4e4;
+  vertical-align: 0.12em;
+  white-space: nowrap;
+}
+
 /* 加宽正文列：清零 Susy gutter 外边距，两列宽度之和=99% 保证并排不掉行（仅大屏生效） */
 @media (min-width: 1200px) {
   #main .sidebar { width: 13%; margin: 0; }
@@ -90,11 +105,11 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-pt">Post-training</span>
+<span class="tag tag-cua">Computer-Use Agent</span> <span class="tag tag-ts">Tree search</span>
 
-**Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
+**Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **COLM 2026**.
 
-<span class="pub-desc">Multi-turn agent policy optimization that self-rectifies reasoning chains and grafts good branches via tree search.</span>
+<span class="pub-desc">A tree-search framework unifying generation, exploration, and evaluation for computer-use agents.</span>
 </div>
 
 <div class="pub-card" markdown="1">
@@ -108,11 +123,11 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-cua">Computer-Use Agent</span> <span class="tag tag-ts">Tree search</span>
+<span class="tag tag-pt">Post-training</span>
 
-**Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **arXiv preprint, 2026**.
+**Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
 
-<span class="pub-desc">A tree-search framework unifying generation, exploration, and evaluation for computer-use agents.</span>
+<span class="pub-desc">Multi-turn agent policy optimization that self-rectifies reasoning chains and grafts good branches via tree search.</span>
 </div>
 
 # 💼 Experience
