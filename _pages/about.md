@@ -28,7 +28,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉 [**Agent Alpha**](https://arxiv.org/abs/2602.02995) <span class="first-author">first author</span> accepted to **COLM 2026** (<span style="color:red">778</span>).
+- *2026.06*: &nbsp;🎉 [**Agent Alpha**](https://arxiv.org/abs/2602.02995) <span class="first-author">first author</span> accepted to **COLM 2026** (score: <span style="color:red">778</span>).
 - *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) <span class="first-author">first author</span> accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
 - *2026.05*: &nbsp;🎉 [**HFPS**](https://arxiv.org/abs/2602.06939) accepted to **ICML 2026**.
 - *2026.04*: &nbsp;🎉 I will join **Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
