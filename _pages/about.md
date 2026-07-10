@@ -38,7 +38,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 # 📝 Selected Publications
 
-<!-- 注意：作者顺序我按 Google Scholar 推断（把你列为第一作者），请核对；一句话描述也可自行润色。 -->
+<!-- 作者顺序已逐篇核对自 arXiv / NeurIPS 官方页面（含 citation_author 元数据），非推断。一句话描述可自行润色。 -->
 
 <style>
 .pub-card {
@@ -89,7 +89,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <span class="tag tag-rl">RL</span> <span class="tag tag-ts">Tree search</span>
 
-**Sizhe Tang**, Z. Zhang, M. Imani, Tian Lan. [*NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*](https://arxiv.org/abs/2605.00751). **ICML 2026** (<span style="color:red">Spotlight</span>).
+**Sizhe Tang**, Zuyuan Zhang, Mahdi Imani, Tian Lan. [*NonZero: Interaction-Guided Exploration for Multi-Agent Monte Carlo Tree Search*](https://arxiv.org/abs/2605.00751). **ICML 2026** (<span style="color:red">Spotlight</span>).
 
 <span class="pub-desc">An interaction-guided exploration rule that scales Monte Carlo Tree Search to multi-agent planning.</span>
 </div>
@@ -98,7 +98,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <span class="tag tag-rl">RL</span>
 
-**Sizhe Tang**, Z. Zhang, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
+Zuyuan Zhang, **Sizhe Tang**, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
 
 <span class="pub-desc">A cochain view of temporal-difference signals that extends RL to non-Markovian dynamics.</span>
 </div>
@@ -107,7 +107,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <span class="tag tag-cua">Computer-Use Agent</span> <span class="tag tag-ts">Tree search</span>
 
-**Sizhe Tang**, R. Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **COLM 2026**.
+**Sizhe Tang**, Rongqian Chen, Tian Lan. [*Agent Alpha: Tree Search Unifying Generation, Exploration and Evaluation for Computer-Use Agents*](https://arxiv.org/abs/2602.02995). **COLM 2026**.
 
 <span class="pub-desc">A tree-search framework unifying generation, exploration, and evaluation for computer-use agents.</span>
 </div>
@@ -125,7 +125,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <span class="tag tag-pt">Post-training</span>
 
-**Sizhe Tang**, Y. Li, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
+Yu Li, **Sizhe Tang**, Tian Lan. [*Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization*](https://arxiv.org/abs/2604.07165). **ACL 2026 Findings**.
 
 <span class="pub-desc">Multi-turn agent policy optimization that self-rectifies reasoning chains and grafts good branches via tree search.</span>
 </div>
