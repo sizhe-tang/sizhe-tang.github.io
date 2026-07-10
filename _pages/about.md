@@ -96,11 +96,11 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-rl">RL</span>
+<span class="tag tag-rl">RL</span> <span class="tag tag-ts">Tree search</span>
 
-Zuyuan Zhang, **Sizhe Tang**, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
+**Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
 
-<span class="pub-desc">A cochain view of temporal-difference signals that extends RL to non-Markovian dynamics.</span>
+<span class="pub-desc">A low-dimensional linear-bandit (LinUCT) search that makes joint-action MCTS efficient for complex multi-agent planning.</span>
 </div>
 
 <div class="pub-card" markdown="1">
@@ -114,11 +114,11 @@ Zuyuan Zhang, **Sizhe Tang**, Tian Lan. [*Cochain Perspectives on Temporal-Diffe
 
 <div class="pub-card" markdown="1">
 
-<span class="tag tag-rl">RL</span> <span class="tag tag-ts">Tree search</span>
+<span class="tag tag-rl">RL</span>
 
-**Sizhe Tang**, Jiayu Chen, Tian Lan. [*MALinZero: Efficient Low-Dimensional Search for Mastering Complex Multi-Agent Planning*](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html). **NeurIPS 2025**.
+Zuyuan Zhang, **Sizhe Tang**, Tian Lan. [*Cochain Perspectives on Temporal-Difference Signals for Learning Beyond Markov Dynamics*](https://arxiv.org/abs/2602.06939). **ICML 2026**.
 
-<span class="pub-desc">A low-dimensional linear-bandit (LinUCT) search that makes joint-action MCTS efficient for complex multi-agent planning.</span>
+<span class="pub-desc">A cochain view of temporal-difference signals that extends RL to non-Markovian dynamics.</span>
 </div>
 
 <div class="pub-card" markdown="1">
