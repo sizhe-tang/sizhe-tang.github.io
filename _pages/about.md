@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Sizhe Tang**, a second-year Ph.D. candidate at [The George Washington University](https://www.gwu.edu/), advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/).
+Hi! I am **Sizhe Tang**, a third-year Ph.D. candidate at [The George Washington University](https://www.gwu.edu/), advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/).
 
 My research focuses on **reinforcement learning** and **self-evolving agents**, with an emphasis on tree-search and planning for multi-agent decision-making (the *Zero* series), computer-use agents, and multi-turn agent policy optimization.
 
@@ -28,11 +28,11 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 I joined <img class="org-logo org-logo-amd" src="/images/logos/amd.svg" alt="AMD">**AMD GenAI** as a Research Intern.
+- *2026.08*: &nbsp;🎉 I joined <img class="org-logo org-logo-amd" src="/images/logos/amd.svg?v=2" alt="AMD">**AMD GenAI** as a Research Intern.
 - *2026.06*: &nbsp;🎉 [**Agent Alpha**](https://arxiv.org/abs/2602.02995) <span class="first-author">first author</span> accepted to **COLM 2026** (score: <span style="color:red">778</span>).
 - *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) <span class="first-author">first author</span> accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
 - *2026.05*: &nbsp;🎉 [**HFPS**](https://arxiv.org/abs/2602.06939) accepted to **ICML 2026**.
-- *2026.04*: &nbsp;🎉 I will join <img class="org-logo org-logo-aws" src="/images/logos/aws.svg" alt="AWS">**Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
+- *2026.04*: &nbsp;🎉 I will join <img class="org-logo org-logo-aws" src="/images/logos/aws.svg?v=2" alt="AWS">**Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
 - *2026.03*: &nbsp;🎉 [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
 - *2025.09*: &nbsp;🎉 [**MALinZero**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html) <span class="first-author">first author</span> accepted to **NeurIPS 2025**.
 <!-- TODO: News 日期是按惯例估的，请按实际录用/起始时间调整 -->
@@ -70,7 +70,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
   margin-right: 0.3em;
 }
 .org-logo-amd { height: 0.9em;  vertical-align: -0.05em; }
-.org-logo-aws { height: 1.25em; vertical-align: -0.32em; }
+.org-logo-aws { height: 1.1em;  vertical-align: -0.4em; }
 
 /* News 里的「一作」标记 */
 .first-author {
