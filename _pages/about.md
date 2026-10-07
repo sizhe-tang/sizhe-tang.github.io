@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am **Sizhe Tang**, a third-year Ph.D. candidate at [The George Washington University](https://www.gwu.edu/), advised by Prof. [Tian Lan](https://www2.seas.gwu.edu/~tlan/).
 
-My research focuses on **reinforcement learning** and **self-evolving agents**, with an emphasis on tree-search and planning for multi-agent decision-making (the *Zero* series), computer-use agents, and multi-turn agent policy optimization.
+My research focuses on **reinforcement learning**, **multi-agent systems**, and **self-evolving agents**, with an emphasis on tree-search and planning for multi-agent decision-making (the *Zero* series), computer-use agents, and multi-turn agent policy optimization.
 
 You can find my publications on <a href='https://scholar.google.com/citations?user=XrAl4vgAAAAJ'>Google Scholar</a>.
 <!-- 引用数徽章：等自动抓取工作流跑出 google-scholar-stats 分支后，把下面这行的注释去掉即可显示实时引用数：
