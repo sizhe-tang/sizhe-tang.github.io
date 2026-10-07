@@ -70,7 +70,7 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
   margin-right: 0.3em;
 }
 .org-logo-amd { height: 0.9em;  vertical-align: -0.05em; }
-.org-logo-aws { height: 1.1em;  vertical-align: -0.4em; }
+.org-logo-aws { height: 1.18em; vertical-align: -0.44em; }
 
 /* News 里的「一作」标记 */
 .first-author {
