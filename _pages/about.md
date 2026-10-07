@@ -28,11 +28,11 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉 I joined <img class="org-logo" src="/images/logos/amd.svg" alt="AMD">**AMD GenAI** as a Research Intern.
+- *2026.08*: &nbsp;🎉 I joined <img class="org-logo org-logo-amd" src="/images/logos/amd.svg" alt="AMD">**AMD GenAI** as a Research Intern.
 - *2026.06*: &nbsp;🎉 [**Agent Alpha**](https://arxiv.org/abs/2602.02995) <span class="first-author">first author</span> accepted to **COLM 2026** (score: <span style="color:red">778</span>).
 - *2026.05*: &nbsp;🎉 [**NonZero**](https://arxiv.org/abs/2605.00751) <span class="first-author">first author</span> accepted to **ICML 2026** (<span style="color:red">Spotlight</span>).
 - *2026.05*: &nbsp;🎉 [**HFPS**](https://arxiv.org/abs/2602.06939) accepted to **ICML 2026**.
-- *2026.04*: &nbsp;🎉 I will join <img class="org-logo" src="/images/logos/amazon.svg" alt="Amazon">**Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
+- *2026.04*: &nbsp;🎉 I will join <img class="org-logo org-logo-aws" src="/images/logos/aws.svg" alt="AWS">**Amazon AWS AI** as an Applied Scientist Intern (Summer 2026, Santa Clara, CA).
 - *2026.03*: &nbsp;🎉 [**T-STAR**](https://arxiv.org/abs/2604.07165) accepted to **ACL 2026 Findings**.
 - *2025.09*: &nbsp;🎉 [**MALinZero**](https://proceedings.neurips.cc/paper_files/paper/2025/hash/6cd8644fab1f7837acd8298f6360864c-Abstract-Conference.html) <span class="first-author">first author</span> accepted to **NeurIPS 2025**.
 <!-- TODO: News 日期是按惯例估的，请按实际录用/起始时间调整 -->
@@ -65,12 +65,12 @@ You can find my publications on <a href='https://scholar.google.com/citations?us
 .tag-rl  { background: #e9dcfb; color: #5a39a0; }    /* 淡紫 · RL */
 .tag-ts  { background: #d6f3dd; color: #1d6b34; }    /* 淡绿 · Tree search */
 
-.org-logo {               /* News 里公司名前的小 logo */
-  height: 1em;
+.org-logo {               /* News 里公司名前的小 logo（SVG 已裁掉留白） */
   width: auto;
-  vertical-align: -0.15em;
-  margin-right: 0.25em;
+  margin-right: 0.3em;
 }
+.org-logo-amd { height: 0.9em;  vertical-align: -0.05em; }
+.org-logo-aws { height: 1.25em; vertical-align: -0.32em; }
 
 /* News 里的「一作」标记 */
 .first-author {
